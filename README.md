@@ -38,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows 10" alt="Windows 10" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/archlinux.svg" title="Arch Linux" alt="Arch Linux" width="60" height="60"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/512px-Manjaro-logo.svg.png" title="Manjaro" alt="Manjaro" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" title="Android" alt="Android" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" title="OhMyZsh" alt="OhMyZsh" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
@@ -46,7 +45,7 @@
 </div>
 
 <br>
-
+<!--
 <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=32&duration=5000&pause=10000&color=F7AA22&width=435&lines=~%24+Stats" />
 
 
@@ -57,6 +56,7 @@
 </div>
 
 <br>
+-->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=32&duration=5000&pause=10000&color=F7AA22&width=435&lines=~%24+WakaTime" />
 
